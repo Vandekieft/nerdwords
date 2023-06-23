@@ -1,0 +1,28 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Madrid"]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "incorrect_answers": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "correct_answer": "Tokyo",
+      "incorrect_answers": ["Osaka", "Kyoto", "Seoul"]
+    }
+  ]
+  
