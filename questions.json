@@ -1,20 +1,5 @@
 [
     {
-      "question": "What is the capital of France?",
-      "correct_answer": "Paris",
-      "incorrect_answers": ["London", "Berlin", "Madrid"]
-    },
-    {
-      "question": "Which planet is known as the Red Planet?",
-      "correct_answer": "Mars",
-      "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
-    },
-    {
-      "question": "Who painted the Mona Lisa?",
-      "correct_answer": "Leonardo da Vinci",
-      "incorrect_answers": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
-    },
-    {
       "question": "What is the largest ocean on Earth?",
       "correct_answer": "Pacific Ocean",
       "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
@@ -23,6 +8,145 @@
       "question": "What is the capital of Japan?",
       "correct_answer": "Tokyo",
       "incorrect_answers": ["Osaka", "Kyoto", "Seoul"]
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "incorrect_answers": ["Oxygen", "Nitrogen", "Helium"]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": ["Earth", "Jupiter", "Venus"]
+    },
+    {
+      "question": "Who wrote 'The Cat in the Hat'?",
+      "correct_answer": "Dr. Seuss",
+      "incorrect_answers": ["Roald Dahl", "J.K. Rowling", "C.S. Lewis"]
+    },
+    {
+      "question": "What is the boiling point of water in degrees Celsius?",
+      "correct_answer": "100",
+      "incorrect_answers": ["0", "50", "200"]
+    },
+    {
+      "question": "How many legs does a spider typically have?",
+      "correct_answer": "8",
+      "incorrect_answers": ["4", "6", "10"]
+    },
+    {
+      "question": "Which animal is known as the king of the jungle?",
+      "correct_answer": "Lion",
+      "incorrect_answers": ["Elephant", "Tiger", "Gorilla"]
+    },
+    {
+      "question": "What is the square root of 64?",
+      "correct_answer": "8",
+      "incorrect_answers": ["6", "7", "9"]
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"]
+    },
+    {
+      "question": "Which state is known as the Sunshine State?",
+      "correct_answer": "Florida",
+      "incorrect_answers": ["California", "Arizona", "Texas"]
+    },
+    {
+      "question": "Which part of the plant conducts photosynthesis?",
+      "correct_answer": "Leaves",
+      "incorrect_answers": ["Roots", "Stem", "Flowers"]
+    },
+    {
+      "question": "What are the primary colors?",
+      "correct_answer": "Red, Blue, and Yellow",
+      "incorrect_answers": ["Green, Orange, and Purple", "Black, White, and Grey", "Pink, Teal, and Brown"]
+    },
+    {
+      "question": "What is the largest continent on Earth?",
+      "correct_answer": "Asia",
+      "incorrect_answers": ["Africa", "North America", "Antarctica"]
+    },
+    {
+      "question": "Which is the fastest land animal?",
+      "correct_answer": "Cheetah",
+      "incorrect_answers": ["Lion", "Elephant", "Kangaroo"]
+    },
+    {
+      "question": "Who is known for his theory of relativity?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": ["Isaac Newton", "Nikola Tesla", "Thomas Edison"]
+    },
+    {
+      "question": "What is the biggest planet in our solar system?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Earth", "Saturn", "Neptune"]
+    },
+    {
+      "question": "What does a thermometer measure?",
+      "correct_answer": "Temperature",
+      "incorrect_answers": ["Weight", "Height", "Speed"]
+    },
+    {
+      "question": "Which month is the shortest?",
+      "correct_answer": "February",
+      "incorrect_answers": ["March", "April", "June"]
+    },
+    {
+      "question": "What is a baby cow called?",
+      "correct_answer": "Calf",
+      "incorrect_answers": ["Pup", "Kit", "Chick"]
+    },
+    {
+      "question": "Which bird is known for its beautiful tail feathers?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": ["Parrot", "Sparrow", "Eagle"]
+    },
+    {
+      "question": "What is the capital of the United States?",
+      "correct_answer": "Washington D.C.",
+      "incorrect_answers": ["New York", "Los Angeles", "Chicago"]
+    },
+    {
+      "question": "What color do you get when you mix blue and yellow?",
+      "correct_answer": "Green",
+      "incorrect_answers": ["Purple", "Orange", "Brown"]
+    },
+    {
+      "question": "What do caterpillars turn into?",
+      "correct_answer": "Butterflies",
+      "incorrect_answers": ["Birds", "Frogs", "Bats"]
+    },
+    {
+      "question": "What gas do we breathe out?",
+      "correct_answer": "Carbon Dioxide",
+      "incorrect_answers": ["Oxygen", "Hydrogen", "Nitrogen"]
+    },
+    {
+      "question": "What instrument measures wind speed?",
+      "correct_answer": "Anemometer",
+      "incorrect_answers": ["Barometer", "Thermometer", "Compass"]
+    },
+    {
+      "question": "Which ocean is on the East Coast of the United States?",
+      "correct_answer": "Atlantic Ocean",
+      "incorrect_answers": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean"]
+    },
+    {
+      "question": "What type of celestial body is the Sun?",
+      "correct_answer": "Star",
+      "incorrect_answers": ["Planet", "Moon", "Comet"]
+    },
+    {
+      "question": "What is a baby horse called?",
+      "correct_answer": "Foal",
+      "incorrect_answers": ["Cub", "Pup", "Kid"]
+    },
+    {
+      "question": "What do bees collect from flowers?",
+      "correct_answer": "Pollen",
+      "incorrect_answers": ["Honey", "Nectar", "Seeds"]
     }
-  ]
-  
+]
